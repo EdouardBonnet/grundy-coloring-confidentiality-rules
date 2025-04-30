@@ -2,9 +2,13 @@
 Last updated 1 May 2025
 
 We do not collect, store, transmit, or share any personal data.
+
 No sign-up or login
+
 No ads or third-party trackers
+
 No in-app purchases
+
 No device permissions requested beyond default WebView / audio
 
 The game runs entirely on-device; every move, setting, and level-progress is kept locally (in sandboxed storage) and disappears when the app is uninstalled.
